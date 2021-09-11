@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{18CEBC88-A40B-4121-9F38-8F02DC4FDB3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C65C7EAD-055E-4D2B-A553-ED35BCA4DE34}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{E242A66D-472F-4615-8771-B1D5888861C4}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{D187EC13-A4F8-473E-8CFF-64DC563DFB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseEngineerExample", "ReverseEngineerExample\ReverseEngineerExample.csproj", "{25C976F0-EAAB-4C98-BBF8-FDA4B71AE618}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CEBC88-A40B-4121-9F38-8F02DC4FDB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CEBC88-A40B-4121-9F38-8F02DC4FDB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CEBC88-A40B-4121-9F38-8F02DC4FDB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CEBC88-A40B-4121-9F38-8F02DC4FDB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E242A66D-472F-4615-8771-B1D5888861C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E242A66D-472F-4615-8771-B1D5888861C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E242A66D-472F-4615-8771-B1D5888861C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E242A66D-472F-4615-8771-B1D5888861C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D187EC13-A4F8-473E-8CFF-64DC563DFB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D187EC13-A4F8-473E-8CFF-64DC563DFB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D187EC13-A4F8-473E-8CFF-64DC563DFB14}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D187EC13-A4F8-473E-8CFF-64DC563DFB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D187EC13-A4F8-473E-8CFF-64DC563DFB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D187EC13-A4F8-473E-8CFF-64DC563DFB14}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{25C976F0-EAAB-4C98-BBF8-FDA4B71AE618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C976F0-EAAB-4C98-BBF8-FDA4B71AE618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

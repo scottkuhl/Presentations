@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{4DAA9D2E-D227-4A7B-BCF8-42D0E8FC20E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7522B847-0AAD-4CC3-96CE-7D162E6B3EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAA9D2E-D227-4A7B-BCF8-42D0E8FC20E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAA9D2E-D227-4A7B-BCF8-42D0E8FC20E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAA9D2E-D227-4A7B-BCF8-42D0E8FC20E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAA9D2E-D227-4A7B-BCF8-42D0E8FC20E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7522B847-0AAD-4CC3-96CE-7D162E6B3EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7522B847-0AAD-4CC3-96CE-7D162E6B3EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7522B847-0AAD-4CC3-96CE-7D162E6B3EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7522B847-0AAD-4CC3-96CE-7D162E6B3EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {859603CE-944A-41D4-A68B-6849D6799099}
+	EndGlobalSection
+EndGlobal

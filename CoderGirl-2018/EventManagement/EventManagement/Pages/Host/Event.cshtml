@@ -1,0 +1,89 @@
+﻿@page "{id:int?}"
+@model EventManagement.Pages.Host.EventModel
+@{
+    var title = Model.Event.Title != null ? Model.Event.Title : "New Event";
+    ViewData["Title"] = title;
+}
+
+<h1>@title</h1>
+<hr />
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Event.Id" />
+    <div class="row">
+        <div class="col-md">
+            <div class="form-group">
+                <label asp-for="Event.Title" class="control-label"></label>
+                <input asp-for="Event.Title" class="form-control" />
+                <span asp-validation-for="Event.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Event.Start" class="control-label"></label>
+                <input asp-for="Event.Start" class="form-control" />
+                <span asp-validation-for="Event.Start" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Event.End" class="control-label"></label>
+                <input asp-for="Event.End" class="form-control" />
+                <span asp-validation-for="Event.End" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md">
+            <div class="form-group">
+                <label asp-for="Event.Location" class="control-label"></label>
+                <input asp-for="Event.Location" class="form-control" />
+                <span asp-validation-for="Event.Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Event.MaxCapacity" class="control-label"></label>
+                <input asp-for="Event.MaxCapacity" class="form-control" />
+                <span asp-validation-for="Event.MaxCapacity" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md">
+            <div class="form-group">
+                <label asp-for="Event.Description" class="control-label"></label>
+                <textarea asp-for="Event.Description" class="form-control"></textarea>
+                <span asp-validation-for="Event.Description" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        @if (Model.Event.Id > 0)
+        {
+            <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#deleteModal">Delete</button>
+        }
+    </div>
+</form>
+
+<!-- Modal -->
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="deleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="deleteModalLabel">Delete?</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete @Model.Event.Title?  This can not be undone.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                <form method="post">
+                    <input type="submit" asp-page-handler="Delete" asp-route-id="@Model.Event.Id" value="Yes" class="btn btn-danger" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}

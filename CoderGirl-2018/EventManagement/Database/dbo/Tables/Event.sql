@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[Event]
+(
+	[Id] INT IDENTITY(1,1) NOT NULL,
+	[HostId] INT NOT NULL, 
+	[Title] NVARCHAR(200) NOT NULL,
+	[Description] NVARCHAR(2000) NOT NULL,
+	[Start] DATETIME NOT NULL,
+	[End] DATETIME NULL,
+	[Location] NVARCHAR(200) NOT NULL,
+	[MaxCapacity] SMALLINT NULL, 
+	CONSTRAINT [PK_Event] PRIMARY KEY ([Id]), 
+	CONSTRAINT [FK_Event_AspNetUsers] FOREIGN KEY ([HostId]) REFERENCES [AspNetUsers]([Id])
+)

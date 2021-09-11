@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="site.master.cs" Inherits="themes_Starter_site" %>
+<%@ Import Namespace="BlogEngine.Core" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server" profile="http://gmpg.org/xfn/11">
+
+    <meta charset="utf-8">
+    <link rel="author" title="Contact Us" href="/contact.aspx" />
+
+    <!-- Theme Style Sheets -->
+    <link rel="stylesheet" href="styles/html5reset-1.6.1.css"/>  <!-- HTML5 Reset http://html5doctor.com/html-5-reset-stylesheet/ -->
+    <link rel="stylesheet" href="styles/style.css" media="screen, projection"/>
+    <link rel="stylesheet" href="styles/print.css" media="print"/>
+
+    <!-- Icons (http://www.iconspedia.com/icon/blog-14722.html) -->
+    <link rel="shortcut icon" href="images/favicon.ico"> <!-- 48x48, 32x32, 16x16 -->
+    <link rel="apple-touch-icon-precomposed" href="images/favicon-apple.png" /> <!-- 129 x 129 -->
+
+    <!-- JavaScript -->
+    <script src="/themes/Starter/scripts/modernizr-2.0.6.min.js" type="text/javascript"></script>  <!-- HTML5 Helper -->
+    <script type="text/javascript" src="/themes/Starter/Scripts/jquery.pinify.min.js"></script> <!-- Pinify -->
+    <!--[if lt IE 9]><script src="/themes/Starter/scripts/html5.min.js"></script><![endif]--> <!-- IE HTML5 Enabler http://remysharp.com/2009/01/07/html5-enabling-script/ -->
+
+    <!-- IE9 Pinning -->
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            try {
+            
+                // Determines if the site was launched as a pinned site.
+                if (window.external.msIsSiteMode()) {
+                
+                    // STATIC TASKS: Add the static tasks and basic pinned info.
+                    $('head').pinify({
+                        startUrl: 'default.aspx', // Start page for a pinned site, can use to change from the default.
+                        tasks: [  // Static tasks.
+                                    {
+                                        'name': 'Read Archive Posts',
+                                        'action': archiveLink, // Variable set in code behind
+                                        'icon': archiveIco // Variable set in code behind
+                                    },
+                                    {
+                                        'name': 'Contact Us',
+                                        'action': contactLink, // Variable set in code behind
+                                        'icon': contactIco // Variable set in code behind
+                                    }
+                                ]
+                    });
+
+                    // DYNAMIC LISTS: Add the dynamic links of the last 5 posts.
+                    $.pinify.addJumpList({
+                        title: 'Posts',
+                        items: stepsArray // Variable set in code behind
+                    });
+
+                }
+            }
+            catch (e) {
+                // Fail silently. Pinned Site API not supported.
+            }
+        });
+
+    </script>        
+
+</head>
+<body>
+
+<form runat="server">
+
+    <header>
+        <p><a href="<%=Utils.AbsoluteWebRoot %>"><%=BlogSettings.Instance.Name %></a></p>
+        <p><%=BlogSettings.Instance.Description %></p>
+        <blog:PageList runat="Server" />
+        <ul>
+            <li><a href="<%=Utils.AbsoluteWebRoot %>archive.aspx"><%=Resources.labels.archive %></a></li>
+            <li><a href="<%=Utils.AbsoluteWebRoot %>contact.aspx"><%=Resources.labels.contact %></a></li>
+            <li><a href="<%=Utils.FeedUrl %>"><%=Resources.labels.subscribe %></a></li>
+            <li><blog:Login runat="Server" /></li>
+        </ul>
+    </header>
+
+    <nav>
+        <p>Categories</p>
+        <blog:CategoryList ShowRssIcon="true" runat="Server" />
+    </nav>
+
+    <blog:SearchOnSearch runat="server" MaxResults="5" Headline="Search: " Text="Top Results: " />
+
+    <asp:ContentPlaceHolder ID="cphBody" runat="server" />
+
+    <section><blog:WidgetZone runat="server" ZoneName="be_WIDGET_ZONE" /></section>
+
+    <footer>
+        <blog:PageList runat="Server" />
+        <ul>
+            <li><a href="<%=Utils.AbsoluteWebRoot %>" rel="home"><%=Resources.labels.home %></a></li>
+            <li><a href="<%=Utils.AbsoluteWebRoot %>archive.aspx"><%=Resources.labels.archive %></a></li>
+            <li><a href="<%=Utils.AbsoluteWebRoot %>contact.aspx"><%=Resources.labels.contact %></a></li>
+            <li><blog:Login runat="Server" /></li>
+        </ul>
+        <ul>
+            <li><a href="<%=Utils.FeedUrl %>"><%=Resources.labels.subscribe %></a></li>
+            <li><a href="<%=Utils.AbsoluteWebRoot %>opml.axd">OPML</a></li>
+            <li><a href="javascript:void(BlogEngine.filterByAPML())" class="apmlfilter"><%=Resources.labels.filterByApml %></a></li>
+        </ul>    
+        <ul>    
+            <li>E-mail: <%=BlogSettings.Instance.Email %></li>
+            <li>Theme: <%=BlogSettings.Instance.Theme %> </li>
+            <li><a href="http://www.dotnetblogengine.net">BlogEngine.NET:</a> <%=BlogSettings.Instance.Version() %></li>
+        </ul>
+    </footer>
+
+    <!-- JavaScript built in code behind for pinning -->
+    <asp:Literal id="jsLiteral" runat="server"></asp:Literal>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,399 @@
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.Core.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Data.Edm.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Data.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\PagedList.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Spatial.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Http.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Http.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\WebGrease.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\WebMatrix.Data.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\WebMatrix.WebData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Mono.Math.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\PagedList.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Http.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\WebMatrix.Data.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\WebMatrix.WebData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.Core.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Web.Http.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Data.Edm.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Microsoft.Data.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\System.Spatial.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\Mono.Math.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\de\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\es\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\fr\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\it\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ja\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ko\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\ru\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Chap4.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\1 - Unit Tests\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.Core.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Data.Edm.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Data.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\PagedList.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Spatial.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Http.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Http.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\WebGrease.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\WebMatrix.Data.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\WebMatrix.WebData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Mono.Math.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\PagedList.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Http.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\WebMatrix.Data.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\WebMatrix.WebData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.Core.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Web.Http.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Data.Edm.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Microsoft.Data.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\System.Spatial.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\Mono.Math.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\de\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\es\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\fr\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\it\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ja\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ko\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\ru\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Chap4.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.Core.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Data.Edm.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Data.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\PagedList.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Spatial.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Http.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Http.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\WebGrease.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\WebMatrix.Data.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\WebMatrix.WebData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Mono.Math.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\PagedList.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Http.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\WebMatrix.Data.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\WebMatrix.WebData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.Core.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Web.Http.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Data.Edm.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Microsoft.Data.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\System.Spatial.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\Mono.Math.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\de\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\es\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\fr\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\it\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ja\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ko\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\ru\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307230521326_InitialCreate.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307232351446_MaxLengthOnNames.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307232353147_ColumnFirstName.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307240007561_Chap4.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307242336012_RowVersion.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307250041322_Inheritance.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.Core.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Data.Edm.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Data.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\PagedList.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Spatial.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Http.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Http.OData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\WebGrease.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\WebMatrix.Data.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\WebMatrix.WebData.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Mono.Math.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\PagedList.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Http.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\WebMatrix.Data.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\WebMatrix.WebData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.Core.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Web.Http.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Data.Edm.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Microsoft.Data.OData.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\System.Spatial.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\Mono.Math.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\de\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\es\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\fr\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\it\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ja\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ko\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\ru\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307230521326_InitialCreate.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307232351446_MaxLengthOnNames.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307232353147_ColumnFirstName.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307240007561_Chap4.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307242336012_RowVersion.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.201307250041322_Inheritance.resources
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\4 - Audit Tracking\ContosoUniversity\obj\Debug\ContosoUniversity.pdb

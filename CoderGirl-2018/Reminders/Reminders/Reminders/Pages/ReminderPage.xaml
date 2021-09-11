@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fresh:FreshBaseContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                            x:Class="Reminders.Pages.ReminderPage"
+                            xmlns:fresh="clr-namespace:FreshMvvm;assembly=FreshWithSQLite">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Name" />
+            <Entry Text="{Binding Name}" />
+            <Label Text="Date" />
+            <Entry Text="{Binding Date}" />
+            <Label Text="Notes" />
+            <Entry Text="{Binding Notes}" HeightRequest="200" />
+            <Button Text="Save" Command="{Binding SaveCommand}" />
+            <Button Text="Delete" Command="{Binding DeleteCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+</fresh:FreshBaseContentPage>

@@ -1,0 +1,14 @@
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\Database\obj\Debug\Database.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\Database\obj\Debug\Database.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\Database\bin\Debug\EFEnterprise.dacpac
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\Database\bin\Debug\Database.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\2 - SQL Server Database Project\Database\bin\Debug\Database.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\bin\Debug\EFEnterprise.dacpac
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\bin\Debug\Database.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\bin\Debug\Database.pdb
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\obj\Debug\Model.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\obj\Debug\refactor.xml
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\obj\Debug\postdeploy.sql
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\obj\Debug\predeploy.sql
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\obj\Debug\Database.dll
+C:\Users\srkuhl\Documents\Visual Studio 2012\Projects\EF in the Enterprise\3 - Compiled Views\Database\obj\Debug\Database.pdb

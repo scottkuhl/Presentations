@@ -1,0 +1,5 @@
+D:\Scott\Documents\EF in the Enterprise\6 - Performance\Database\bin\Release\Database.dacpac
+D:\Scott\Documents\EF in the Enterprise\6 - Performance\Database\bin\Release\Database.dll
+D:\Scott\Documents\EF in the Enterprise\6 - Performance\Database\bin\Release\Database.pdb
+D:\Scott\Documents\EF in the Enterprise\6 - Performance\Database\obj\Release\Database.dll
+D:\Scott\Documents\EF in the Enterprise\6 - Performance\Database\obj\Release\Database.pdb

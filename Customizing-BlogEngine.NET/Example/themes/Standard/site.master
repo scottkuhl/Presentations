@@ -1,0 +1,193 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="site.master.cs" Inherits="StandardSite" %>
+<%@ Import Namespace="BlogEngine.Core" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head runat="server" profile="http://gmpg.org/xfn/11">
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    
+    <!-- PIN: High Resolution Icon -->    
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <!-- PIN: Pinify -->
+    <script type="text/javascript" src="/themes/Standard/Scripts/jquery.pinify.min.js"></script>
+        
+    <!-- PIN -->
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            try {
+            
+                // Determines if the site was launched as a pinned site.
+                if (window.external.msIsSiteMode()) {
+                
+                    // NOTIFICATION: Change the on click for all links to remove the notification.
+                    $('a').click(function () {
+                        $.pinify.clearOverlay();
+                    });
+
+                    // NOTIFICATION: Load the latest post id.
+                    if ($('#latestId').val() == '0') {
+                        // We don't have the post id, need to get it.
+                        CheckForLatestPost();
+                    }
+
+                    // STATIC TASKS: Add the static tasks and basic pinned info.
+                    $('head').pinify({
+                        startUrl: 'default.aspx', // Start page for a pinned site, can use to change from the default.
+                        tasks: [  // Static tasks.
+                                    {
+                                        'name': 'Read Archive Posts',
+                                        'action': archiveLink, // Variable set in code behind
+                                        'icon': archiveIco // Variable set in code behind
+                                    },
+                                    {
+                                        'name': 'Contact Us',
+                                        'action': contactLink, // Variable set in code behind
+                                        'icon': contactIco // Variable set in code behind
+                                    }
+                                ]
+                    });
+
+                    // DYNAMIC LISTS: Add the dynamic links of the last 5 posts.
+                    $.pinify.addJumpList({
+                        title: 'Posts',
+                        items: stepsArray // Variable set in code behind
+                    });
+
+                    // Set up the site to check the posts for
+                    // a post in the last 5 minutes
+                    ResetTimer();
+
+                }
+                
+                // NOT launched as a pinned site.
+                else {
+                    
+                    // NOTIFICATION BAR: Show the toast notification.
+                    $('#divPinSite').show();
+                }
+            }
+            catch (e) {
+                // Fail silently. Pinned Site API not supported.
+            }
+        });
+
+        // NOTIFICATION: Make an AJAX call to get the latest post ID.
+        function CheckForLatestPost() {
+            $.ajax({
+                url: "/themes/Standard/Ajax/Notification.aspx/GetLatestPostId",
+                data: {},
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (msg) {
+                    // Pass the response along.
+                    SetNotification(eval(msg)["d"]);
+                }
+            });
+        }
+
+        // NOTIFICATION: Callback function that shows / does not show the notification overlay.
+        function SetNotification(id) {
+            
+            // No posts yet or possible connection problem.
+            if (id == "0") {
+                // Reset the timer for checking.
+                ResetTimer();
+                return;
+            }
+            
+            // First time the page is loaded.
+            if ($('#latestId').val() == "0") {
+                
+                // Save the post ID in hidden value.
+                $('#latestId').val(id);
+                
+                // Clear any notification overlay.
+                $.pinify.clearOverlay();
+                
+                // Reset the timer for checking.
+                ResetTimer();
+                return;            
+            }
+            
+            // A new post has been found.
+            if (id != $('#latestId').val()) {
+            
+                // Add the notification overlay.  Hooray we have a user notification!
+                $.pinify.addOverlay({
+                    icon: '/themes/Standard/img/star.ico'
+                });
+            }
+            
+            // Save the post ID in a hidden value.
+            $('#latestId').val(id);
+            
+            // Reset the timer for checking.
+            ResetTimer();
+        }
+
+        // NOTIFICATION: Reset the timer to check for new posts every 20 seconds.
+        function ResetTimer() {
+            setTimeout("CheckForLatestPost()", 20000);
+        }
+
+    </script>        
+        
+</head>
+<body>
+
+    <!-- PIN: Notification Bar -->
+    <div id="divPinSite" style="display:none;">
+        <img src="/themes/Standard/img/play.ico" alt=""/>
+        Drag the site icon to the taskbar to pin this site!
+    </div>
+    
+    <!-- PIN: NOTIFICATION: Input control to hold the latest id -->
+    <input type="hidden" id="latestId" value="0" />
+    
+  <div id="header">
+    <p><a href="<%=Utils.AbsoluteWebRoot %>"><%=BlogSettings.Instance.Name %></a></p>
+    <span><%=BlogSettings.Instance.Description %></span>
+  </div>
+  
+  <div id="menu">
+    
+    <div class="login">
+         <span runat="server" id="aUser"></span>
+        <blog:Login runat="Server" />
+    </div>
+   
+    <ul>
+      <li><a href="<%=Utils.AbsoluteWebRoot %>" rel="home"><%=Resources.labels.home %></a></li>
+      <li><a href="<%=Utils.AbsoluteWebRoot %>archive.aspx"><%=Resources.labels.archive %></a></li>
+      <li><a href="<%=Utils.AbsoluteWebRoot %>contact.aspx"><%=Resources.labels.contact %></a></li>
+      <li><a href="<%=Utils.FeedUrl %>" class="feed"><img src="<%=Utils.AbsoluteWebRoot %>pics/rssButton.png" alt="Feed" /><%=Resources.labels.subscribe %></a></li>
+      <li><a href="javascript:void(BlogEngine.filterByAPML())" class="apmlfilter"><%=Resources.labels.filterByApml %></a></li>
+    </ul>
+  </div>
+  
+  <form runat="Server" class="body">
+    
+    <div id="content">
+      <blog:SearchOnSearch runat="server" MaxResults="3" Headline="You searched for" Text="Here are some results for the search term on this website" />
+      <asp:ContentPlaceHolder ID="cphBody" runat="server" />
+      
+      <p id="footer">
+        Powered by <a href="http://www.dotnetblogengine.net">BlogEngine.NET</a> <%=BlogSettings.Instance.Version() %><br />
+        Theme by <a href="http://madskristensen.net">Mads Kristensen</a>
+      </p>
+    </div>
+
+    <div id="sidepanel">
+      <blog:WidgetZone runat="server" ZoneName="be_WIDGET_ZONE" />
+    </div>
+    
+    <!-- PIN: JavaScript built in code behind -->
+    <asp:Literal id="jsLiteral" runat="server"></asp:Literal>
+  </form>
+  
+</body>
+</html>
